@@ -1,0 +1,4 @@
+This is a new file.
+It contains some text.
+This is an additional line.
+This is an additional line.
